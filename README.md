@@ -1,2 +1,2 @@
 # Stock Market Predictor (Closing Prices)
- A Python application built using fundamental Machine Learning concepts and technologies to predict closing prices of stocks based on past historic data and various algorithms for analysis
+ An application built using Python to apply Machine Learning concepts and technologies in analyzing past financial data and predicting the closing price of any given stock. Possible algorithms for analysis include: Support Vector Regression, Linear Regression, and Classification/Regression Trees
